@@ -19,4 +19,6 @@ alert( extractCurrencyValue('$120') === 120 );
 function extractCurrencyValue(str){
   return +str.slice(1);}
   //третье задание
-  
+alert( randomInteger(1, 5) );
+alert( randomInteger(1, 5) );
+alert( randomInteger(1, 5) );
