@@ -11,3 +11,12 @@ if (a === correctLogin || b === correctPassword ) {
 else {
 	alert('Go away stranger')
 }
+
+//второе задание
+let e = test
+if (true > 10 ) {
+	alert('good =)')
+}
+else {
+	alert('Bad =(')
+}
