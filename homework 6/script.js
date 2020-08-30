@@ -31,3 +31,19 @@ if (test1 !== test2) {
 } else {
     alert('неверно');
 }
+
+//второе задание
+
+let a = prompt('write a number')
+let b = prompt('write a number')
+if (a < b) {
+	alert('B bigger than A')
+}
+else {
+	alert('A bigger than B')
+
+//третье задание
+let x = 5;
+let y = 6;
+alert = (x && y ) ? 'все значения верны' : "одно из значений не верно";
+
